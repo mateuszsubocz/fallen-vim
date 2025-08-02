@@ -33,3 +33,13 @@ call plug#begin('~/.vim/plugged')
 Plug 'mateuszsubocz/fallen.vim'
 
 call plug#end()
+
+```
+
+or
+
+```
+colorscheme fallen
+
+set termguicolors
+```
