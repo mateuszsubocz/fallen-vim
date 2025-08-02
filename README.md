@@ -39,6 +39,15 @@ call plug#end()
 or
 
 ```
+mkdir -p .vim/colors
+cd .vim/colors
+git clone https://github.com/mateuszsubocz/fallen-vim
+cd
+vim .vimrc
+```
+and then
+
+```
 colorscheme fallen
 
 set termguicolors
