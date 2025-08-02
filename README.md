@@ -17,7 +17,12 @@
 
 ## 🖼️ Screenshots
 
-### Code View and visual inspiratio
+### Code View (generic vim theme on left, and fallen-vim on right) and visual inspiration
+
+
+<img width="1899" height="1028" alt="screen" src="https://github.com/user-attachments/assets/01b9d89c-6076-41ee-8541-146abd4fb921" />
+<img width="512" height="512" alt="ChatGPT Image Aug 2, 2025, 10_45_18 PM" src="https://github.com/user-attachments/assets/988e8b7d-64a7-4e50-be2a-c26e419afad9" />
+
 
 ---
 
