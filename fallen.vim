@@ -1,7 +1,8 @@
-" Theme:   fallen1
-" File:    fallen1.vim
+" Theme:   fallen
+" File:    fallen.vim
 " Author:  mateuszsubocz
 " requires :set termguicolors
+
 set background=dark
 hi clear
 if exists("syntax_on")
